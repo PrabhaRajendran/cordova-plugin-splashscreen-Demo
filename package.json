@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-splashscreen",
-  "version": "6.0.1-dev",
-  "description": "Cordova Splashscreen Plugin",
+  "name": "cordova-plugin-splashscreen-demo",
+  "version": "1.0.1",
+  "description": "Cordova Splashscreen Demo Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-splashscreen",
+    "id": "cordova-plugin-splashscreen-demo",
     "platforms": [
       "android",
       "windows",
@@ -12,7 +12,7 @@
     ]
   },
   "repository": "github:apache/cordova-plugin-splashscreen",
-  "bugs": "https://github.com/apache/cordova-plugin-splashscreen/issues",
+  "bugs": "https://github.com/PrabhaRajendran/cordova-plugin-splashscreen-Demo/issues",
   "keywords": [
     "cordova",
     "splashscreen",

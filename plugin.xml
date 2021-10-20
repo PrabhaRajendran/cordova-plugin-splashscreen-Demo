@@ -19,14 +19,14 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-splashscreen"
-        version="6.0.1-dev">
+        id="cordova-plugin-splashscreen-demo"
+        version="1.0.1">
     <name>Splashscreen</name>
     <description>Cordova Splashscreen Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,splashscreen</keywords>
-    <repo>https://github.com/apache/cordova-plugin-splashscreen.git</repo>
-    <issue>https://github.com/apache/cordova-plugin-splashscreen/issues</issue>
+    <repo>https://github.com/PrabhaRajendran/cordova-plugin-splashscreen-Demo.git</repo>
+    <issue>https://github.com/PrabhaRajendran/cordova-plugin-splashscreen-Demo/issues</issue>
 
     <engines>
         <engine name="cordova-android" version=">=3.6.0" /><!-- Requires CordovaPlugin.preferences -->
